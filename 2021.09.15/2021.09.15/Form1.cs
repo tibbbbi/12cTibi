@@ -16,5 +16,10 @@ namespace _2021._09._15
         {
             InitializeComponent();
         }
+
+        private void Btnosszeadas_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
